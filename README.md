@@ -1,5 +1,5 @@
 Hi, I'm @Mandled :)
-I'm a software engineering student, and I'm currently learning Python!
+I'm a software engineering student, and I'm currently learning C++!
 
 <!---
 Mandled/Mandled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
