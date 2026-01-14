@@ -20,7 +20,7 @@ Actively seeking an internship in Software Engineering (Summer 2026)
 
 ### Databases
 - MySQL (beginner)
-- Power Bi (beginner)
+- Power BI (beginner)
 
 ### Software Engineering
 - Object-Oriented Programming (OOP)
