@@ -9,18 +9,15 @@ Actively seeking an internship in Software Engineering (Summer 2026)
 ### Programming Languages
 - C++ (advanced)
 - Java (advanced)
-- Python (intermediate)
+- Python (advanced)
 - JavaScript (intermediate)
 
 ### Web & Backend
-- HTML, CSS
-- Flask
-- Node.js
-- REST APIs
+- HTML, CSS (intermediate)
+- React (intermediate)
 
 ### Databases
-- MySQL (beginner)
-- Power BI (beginner)
+- MySQL (intermediate)
 
 ### Software Engineering
 - Object-Oriented Programming (OOP)
